@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "803008557806",
+    "project_id": "mesai-app-ed1e6",
+    "storage_bucket": "mesai-app-ed1e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803008557806:android:2b0ce30c28c6e84777f9ff",
+        "android_client_info": {
+          "package_name": "com.example.mesai_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803008557806-kvahjflanhrrajo18hiane56uuhuhc5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg4Acw48lXrs0R_I3hTaCR9YbwLutPbzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803008557806-kvahjflanhrrajo18hiane56uuhuhc5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
